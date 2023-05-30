@@ -1,5 +1,6 @@
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/MichelLalmohamed/CI-CD-Workshop-Playwright/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/MichelLalmohamed/CI-CD-Workshop-Playwright/tree/main)
 
+[![Playwright Tests](https://github.com/ErnstdeJong/CI-CD-Workshop-Playwright/actions/workflows/playwright.yml/badge.svg)](https://github.com/ErnstdeJong/CI-CD-Workshop-Playwright/actions/workflows/playwright.yml)
 # Playwright-playground
 
 Node: v14.15.4
